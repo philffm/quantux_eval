@@ -34,6 +34,21 @@ pip install requests pandas scipy statsmodels matplotlib seaborn
 
 3. Modify the code as per your analysis requirements.
 
+## Contributions
+
+PRs (Pull Requests) are always welcome! We appreciate any input, improvements, or suggestions that can enhance the project.
+
+To contribute, please follow these steps:
+
+1. Fork the repository and create your branch from `main`.
+2. Make your desired changes, additions, or improvements.
+3. Ensure that your code adheres to the project's coding style and guidelines 
+4. Test your changes to ensure they function as intended.
+5. Submit a pull request, providing a clear and concise description of your changes.
+
+We value the community's involvement and appreciate your contributions towards making this project even better!
+
+
 ## References
 
 - Quant UX API Documentation: [link-to-api-docs](https://quant-ux.com/docs/api/rest/index.html)
