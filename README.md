@@ -51,7 +51,7 @@ We value the community's involvement and appreciate your contributions towards m
 
 ## References
 
-- Quant UX API Documentation: [link-to-api-docs](https://quant-ux.com/docs/api/rest/index.html)
+- Quant UX: [link-to-repo](https://github.com/KlausSchaefers/quant-ux)
 
 ## License
 
