@@ -1,6 +1,6 @@
 # Quant UX Data Retrieval and Analysis
 
-This Jupyter Notebook demonstrates how to retrieve data from Quant UX using the Quant UX API and perform data analysis on the retrieved data.
+This Jupyter Notebook demonstrates how to retrieve data from Quant UX and perform data analysis on the retrieved data.
 
 ## Prerequisites
 
